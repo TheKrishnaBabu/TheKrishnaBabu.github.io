@@ -1,0 +1,73 @@
+baseURL: https://krishna-babu.github.io/
+languageCode: en-us
+title: Krishna Babu
+theme: PaperMod
+
+paginate: 10
+
+params:
+  env: production
+  description: "AI Engineer — NLP, Computer Vision, Generative AI, MLOps"
+  author: Krishna Moorthy Babu
+
+  defaultTheme: dark
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+
+  homeInfoParams:
+    Title: "Hey, I'm Krishna"
+    Content: >
+      AI Engineer based in Auckland, NZ. I build production AI systems — from NLP pipelines and GenAI chatbots to computer vision and MLOps infrastructure.
+      Published researcher, patent holder, and constant builder.
+
+  socialIcons:
+    - name: linkedin
+      url: "https://linkedin.com/in/kriskrishna/"
+    - name: github
+      url: "https://github.com/TheKrishnaBabu"
+    - name: email
+      url: "mailto:[EMAIL]"
+
+  profileMode:
+    enabled: false
+
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+
+  assets:
+    disableHLJS: true
+
+markup:
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: experience
+      name: Experience
+      url: /experience/
+      weight: 20
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 30
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 40
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
