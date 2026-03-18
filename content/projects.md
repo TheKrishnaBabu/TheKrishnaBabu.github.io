@@ -13,7 +13,7 @@ TocOpen: true
 A centralised API gateway on Azure for all LLM traffic across the organisation. Enforces governance policies, tracks cost per team, and provides real-time monitoring — establishing guardrails for Responsible AI usage at scale.
 
 ### Production Chatbots
-End-to-end generative AI chatbot solutions deployed in production — including an HR Assistant, Delegation Manual Assistant, LGOIMA Query Assistant, and AI Journey Planner. Built on large language models with REST API integration, actively used across the organisation.
+End-to-end generative AI chatbot solutions deployed in production — including an HR Assistant, Delegation Manual Assistant, LGOIMA Query Assistant, Performance Development Plan (PDP) Assistant and AI Journey Planner. Built on large language models with REST API integration, actively used across the organisation.
 
 ### Text Engineering Pipeline
 An in-house pipeline for extracting actionable insights from customer feedback. Includes custom NLP solutions for sentiment classification, emotion tagging, key-phrase extraction, question extraction, topic modelling, and custom entity recognition — all tailored to domain requirements.

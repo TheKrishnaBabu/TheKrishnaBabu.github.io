@@ -22,7 +22,7 @@ TocOpen: true
 
 - Led **end-to-end Generative AI projects** from ideation through production deployment, delivering measurable business value.
 - Built an **in-house text engineering pipeline** for sentiment classification, topic modelling, entity recognition, and key-phrase extraction.
-- Delivered multiple production **Generative AI chatbots** (HR Assistant, Delegation Assistant, LGOIMA Assistant) with REST API integration.
+- Delivered multiple production **Generative AI chatbots** (HR Assistant, PDP Assistant, Delegation Assistant, LGOIMA Assistant) with REST API integration.
 - Deployed and maintained AI solutions on **Azure**, optimising performance, scalability, and reliability.
 - Developed a **semantic search and case prioritisation** system for CRM, improving customer service responsiveness.
 - Conducted **time series modelling** for patronage forecasting and impact analysis.
